@@ -1,0 +1,8 @@
+# Project exclude paths
+/cjw-rpc-client/target/
+/cjw-rpc-codec/target/
+/cjw-rpc-common/target/
+/cjw-rpc-example/target/
+/cjw-rpc-proto/target/
+/cjw-rpc-server/target/
+/cjw-rpc-transport/target/
